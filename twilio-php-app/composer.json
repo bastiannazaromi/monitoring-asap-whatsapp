@@ -1,0 +1,18 @@
+{
+    "name": "sisfo/twilio-php-app",
+    "description": "API for WhatsApp",
+    "require": {
+        "twilio/sdk": "^6.37"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sisfo\\TwilioPhpApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bastian Nazaromi",
+            "email": "bastian.nazaromi@gmail.com"
+        }
+    ]
+}
